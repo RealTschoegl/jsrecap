@@ -1,0 +1,13 @@
+input {
+	width: 200px;
+}
+#error_message {
+	width: 300px;
+	background-color: red;
+	color: white;
+}
+#success_message {
+	width: 300px;
+	background-color: green;
+	color: black;
+}
